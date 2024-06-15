@@ -1,0 +1,7 @@
+﻿
+<!-- Range, port and multicast group  config -->
+
+<config>
+	<multicastAddress>224.0.0.1</multicastAddress>
+	<port>80</port>
+</config>
