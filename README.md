@@ -3,6 +3,7 @@ Client Application
 Task:
 Condition: Create a solution that calculates statistical parameters from stock exchange quotes as quickly as possible.
 To implement this, create 2 console applications.
+
 1st - application-server:
 Endlessly generates random numbers within a range (to emulate the subject area - a stream of quotes from the stock exchange),
 sends them via UDP multicast, without delays. The range and multicast group are configured through a separate XML config.
